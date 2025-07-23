@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?mso-application progid="Word.Document"?>
+
+`<w:wordDocument xmlns:w="http://schemas.microsoft.com/office/word/2003/wordml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:sl="http://schemas.microsoft.com/schemaLibrary/2003/core" xmlns:aml="http://schemas.microsoft.com/aml/2001/core" xmlns:wx="http://schemas.microsoft.com/office/word/2003/auxHint" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882" w:macrosPresent="no" w:embeddedObjPresent="no" w:ocxPresent="no" xml:space="preserve">`{=html}`<o:DocumentProperties>`{=html}`</o:DocumentProperties>`{=html}`<w:fonts>`{=html}`<w:defaultFonts w:ascii="Times New Roman" w:fareast="Times New Roman" w:h-ansi="Times New Roman" w:cs="Times New Roman"/>`{=html}`</w:fonts>`{=html}`<w:docPr>`{=html}`</w:docPr>`{=html}`<w:body>`{=html}`<wx:sect>`{=html}`<w:p>`{=html}`<w:pPr>`{=html}`</w:pPr>`{=html}`<w:r>`{=html}`<w:rPr>`{=html}`<w:rFonts w:ascii="Helvetica" w:h-ansi="Helvetica" w:cs="Helvetica"/>`{=html}`<wx:font wx:val="Helvetica"/>`{=html}`<w:sz w:val="24"/>`{=html}`<w:sz-cs w:val="24"/>`{=html}`</w:rPr>`{=html}`<w:t>`{=html}\*
+Practical step-by-step guide for building detunable 7 Tesla Birdcage
+coils (Version 6, authored by Azma Mareyam from the RF Lab). [Click here
+to
+download](https://rflab.martinos.org/images/7/7d/7T_Detunable_Birdcage_Manual_V6.docx)`</w:t>`{=html}`</w:r>`{=html}`</w:p>`{=html}`<w:sectPr>`{=html}`<w:pgSz w:w="12240" w:h="15840"/>`{=html}`<w:pgMar w:top="1440" w:right="1440" w:bottom="1440" w:left="1440"/>`{=html}`</w:sectPr>`{=html}`</wx:sect>`{=html}`</w:body>`{=html}`</w:wordDocument>`{=html}
