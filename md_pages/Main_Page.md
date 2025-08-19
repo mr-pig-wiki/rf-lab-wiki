@@ -12,7 +12,7 @@ Resonance Physics and Instrument Group
 Lawrence Wald, at the A. A. Martinos Center for Biomedical Imaging,
 Massachusetts General Hospital, Boston, MA, USA.
 
-- <a href="/Visiting_group_members" class="wikilink"
+- <a href="/Visiting_group_members.md" class="wikilink"
   title="Visiting group members">Visiting group members
 
 *(August 2020): Version 1 of a low-cost Mini Circuits-based RF low noise
@@ -28,7 +28,7 @@ available online. Please see Current driver section below.*
 simulations. The code includes helmet-style wire patterns and a
 constrained optimization script for finding optimal shim currents for B0
 shimming of the brain. Please see the*
-<a href="/Multi-coil_B0_shimming" class="wikilink"
+<a href="/Multi-coil_B0_shimming.md" class="wikilink"
 title="Multi-coil B0 shimming">Multi-coil B0 shimming *section
 below.*
 
@@ -39,68 +39,66 @@ upload materials...*
 
 ## Resources
 
-- <a href="/Current_driver:Current_driver" class="wikilink"
+- <a href="/Current_driver:Current_driver.md" class="wikilink"
   title="Multi-channel current driver board">Multi-channel current driver
   board
 
 <!-- -->
 
-- <a href="/Multi-coil_B0_shimming" class="wikilink"
+- <a href="/Multi-coil_B0_shimming.md" class="wikilink"
   title="Multi-coil B0 shimming research methods (including shim arrays in PUMCIN format)">Multi-coil
   B0 shimming research methods (including shim arrays in PUMCIN
   format)
 
 <!-- -->
 
-- <a href="/Information_and_How-To_guides_for_building_RF_coils"
+- <a href="/Information_and_How-To_guides_for_building_RF_coils.md"
   class="wikilink"
   title="Information and How-To guides for building RF coils">Information
   and How-To guides for building RF coils
 
 <!-- -->
 
-- <a href="/PIN_Diode_Driver_(8-channel)" class="wikilink"
+- <a href="/PIN_Diode_Driver_(8-channel).md" class="wikilink"
   title="PIN Diode Driver (8-channel)">PIN Diode Driver (8-channel)
 
 <!-- -->
 
-- <a href="/3T_Toroidal_Chokes" class="wikilink"
+- <a href="/3T_Toroidal_Chokes.md" class="wikilink"
   title="3T Toroidal Chokes">3T Toroidal Chokes
 
 <!-- -->
 
-- <a href="/Low-noise_RF_Preamplifier" class="wikilink"
+- <a href="/Low-noise_RF_Preamplifier.md" class="wikilink"
   title="Low-noise RF Preamplifier">Low-noise RF Preamplifier
 
 <!-- -->
 
-- <a href="LT-SPICE_simulations_of_RF_receive_coil_element_tuning_and_matching" class="wikilink" 
+- <a href="LT-SPICE_simulations_of_RF_receive_coil_element_tuning_and_matching.md" class="wikilink" 
 title="LT-SPICE simulations of RF receive coil element tuning and matching">LT-SPICE simulations of RF receive coil element tuning and matching
 
 <!-- -->
 
-- <a href="/Low-cost_1_Watt_RF_power_amplifier_(in_progress)"
+- <a href="/Low-cost_1_Watt_RF_power_amplifier_(in_progress).md"
   class="wikilink"
   title="Low-cost 1 Watt RF power amplifier (in progress)">Low-cost 1 Watt
   RF power amplifier (in progress)
 
 <!-- -->
 
-- <a href="/Spin_echo_generator_board_(in_progress)" class="wikilink"
+- <a href="/Spin_echo_generator_board_(in_progress).md" class="wikilink"
   title="Spin echo generator board (in progress)">Spin echo generator
   board (in progress)
 
 <!-- -->
 
-- <a href="/12ch_ASL_Shim_Coil_(in_progress)" class="wikilink"
+- <a href="/12ch_ASL_Shim_Coil_(in_progress).md" class="wikilink"
   title="12ch ASL Shim Coil (in progress)">12ch ASL Shim Coil (in
   progress)
 
 <!-- -->
 
-- <a
-  href="/High-power_switching_and_control_system_for_concurrent_TMS_and_MRI_(under_construction...)"
-  class="wikilink"
+- <a href="/High-power_switching_and_control_system_for_concurrent_TMS_and_MRI_(under_construction...).md" class="wikilink"
   title="High-power switching and control system for concurrent TMS and MRI (under construction...)">High-power
   switching and control system for concurrent TMS and MRI (under
   construction...)
