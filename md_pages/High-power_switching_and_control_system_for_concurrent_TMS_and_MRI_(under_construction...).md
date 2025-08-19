@@ -3,7 +3,7 @@ title: High-power switching and control system for concurrent TMS and MRI (under
 permalink: /High-power_switching_and_control_system_for_concurrent_TMS_and_MRI_(under_construction...)/
 ---
 
-<a href="/File:Highpowerswitch_overview.png" class="wikilink"
+<a href="/md_pages/File:Highpowerswitch_overview.png" class="wikilink"
 title="200px|thumb|left|overview">200px|thumb|left|overview
 
 ## Overview
@@ -83,7 +83,7 @@ TMS + Switching, Scenario 4. Encoding + Switching, and Scenario 5.
 Encoding + TMS + Switching. Imaging was captured using a spherical water
 phantom with the same spin echo EPI diffusion weighted sequence played
 out by 3T scanner (TE:50ms, TR:20000ms, Voxel Size: 2.0×2.0×6.0 mm³, 20
-slices). <a href="/File:Results1.png" class="wikilink"
+slices). <a href="/md_pages/File:Results1.png" class="wikilink"
 title="File:Results1.png"><span>File:Results1.png</span>
-<a href="/File:Result2.png" class="wikilink"
+<a href="/md_pages/File:Result2.png" class="wikilink"
 title="File:Result2.png"><span>File:Result2.png</span>

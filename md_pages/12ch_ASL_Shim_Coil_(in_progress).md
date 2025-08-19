@@ -3,7 +3,7 @@ title: 12ch ASL Shim Coil (in progress)
 permalink: /12ch_ASL_Shim_Coil_(in_progress)/
 ---
 
-<a href="/File:asl_coil_picture.jpg" class="wikilink"
+<a href="/md_pages/File:asl_coil_picture.jpg" class="wikilink"
 title="300px">300px
 
 ## Overview

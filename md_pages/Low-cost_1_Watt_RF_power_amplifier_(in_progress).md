@@ -26,10 +26,10 @@ here](../files/../files/Tabletop_RFPA_motorola.zip)
 to download EAGLE board files (layout and schematic), GERBER files, and
 Bill of Materials.
 
-<a href="/file:Schematic_rfpa.png" class="wikilink"
+<a href="/md_pages/file:Schematic_rfpa.png" class="wikilink"
 title="1000px|none|alt=Alt text|Schematic for MHW592 daughter board">1000px|none|alt=Alt
 text|Schematic for MHW592 daughter board
 
-<a href="/file:Layout_rfpa.png" class="wikilink"
+<a href="/md_pages/file:Layout_rfpa.png" class="wikilink"
 title="1000px |Board layout for MHW592 daughter board">1000px |Board
 layout for MHW592 daughter board

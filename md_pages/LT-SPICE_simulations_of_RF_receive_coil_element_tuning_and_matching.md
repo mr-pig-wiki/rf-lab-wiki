@@ -46,5 +46,5 @@ Version of LT-SPICE simulation used for ENC April 2022 demo:
 
 LT-SPICE model was created by Lincoln Craven-Brightman in 2021.
 
-<a href="/File:Screen_Shot_2022-02-24_at_5.56.15_PM.png"
+<a href="/md_pages/File:Screen_Shot_2022-02-24_at_5.56.15_PM.png"
 class="wikilink" title="1500px">1500px

@@ -3,7 +3,7 @@ title: Low-noise RF Preamplifier
 permalink: /Low-noise_RF_Preamplifier/
 ---
 
-<a href="/File:lna_picture.jpg" class="wikilink" title="400px">400px
+<a href="/md_pages/File:lna_picture.jpg" class="wikilink" title="400px">400px
 
 ## Overview
 
@@ -23,8 +23,8 @@ operating current. The enclosure is connected to the board and SMA GND.
 The current model does not have impedance matching incorporated.
 
 This layout is adapted from the PHA-13 datasheet from Mini Circuits.
-<a href="/File:lna_inside.jpg" class="wikilink" title="400px">400px
-<a href="/File:lna_schematic_pic.png" class="wikilink"
+<a href="/md_pages/File:lna_inside.jpg" class="wikilink" title="400px">400px
+<a href="/md_pages/File:lna_schematic_pic.png" class="wikilink"
 title="1000px">1000px
 
 ## Specs
@@ -33,9 +33,9 @@ title="1000px">1000px
 
 The LNA demonstrates a gain of above 20 dB over 1-100 MHz. Gain slowly
 falls off to 17 dB at 1 GHz, and drops sharply below 1 MHz.
-<a href="/File:LNA_S21_100_label.png" class="wikilink"
+<a href="/md_pages/File:LNA_S21_100_label.png" class="wikilink"
 title="500px">500px
-<a href="/File:LNA_S21_1000_label.png" class="wikilink"
+<a href="/md_pages/File:LNA_S21_1000_label.png" class="wikilink"
 title="500px">500px
 
 ### Safety limits
@@ -55,18 +55,18 @@ It demonstrated similar SNR to the lab's current AU-1583 amplifiers when
 total gain was comparable, using different gain stages. The domain
 chosen as "noise" is delimited by vertical dashed lines. All testing
 data is included below.
-<a href="/File:lna_snr_pic.png" class="wikilink" title="500px">500px
-<a href="/File:lna_miteq_snr_pic.png" class="wikilink"
+<a href="/md_pages/File:lna_snr_pic.png" class="wikilink" title="500px">500px
+<a href="/md_pages/File:lna_miteq_snr_pic.png" class="wikilink"
 title="500px">500px
 
 ## Files
 
 KiCAD file:
-<a href="/Media:lna_kicad.zip" class="wikilink"
+<a href="/md_pages/Media:lna_kicad.zip" class="wikilink"
 title="Media:lna_kicad.zip">Media:lna_kicad.zip
 Parts list:
-<a href="/Media:lna_parts.txt" class="wikilink"
+<a href="/md_pages/Media:lna_parts.txt" class="wikilink"
 title="Media:lna_parts.txt">Media:lna_parts.txt
 Testing data:
-<a href="/Media:lna_test_data.zip" class="wikilink"
+<a href="/md_pages/Media:lna_test_data.zip" class="wikilink"
 title="Media:lna_test_data.zip">Media:lna_test_data.zip

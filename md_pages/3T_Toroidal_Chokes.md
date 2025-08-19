@@ -3,7 +3,7 @@ title: 3T Toroidal Chokes
 permalink: /3T_Toroidal_Chokes/
 ---
 
-<a href="/File:choke_picture.jpg" class="wikilink"
+<a href="/md_pages/File:choke_picture.jpg" class="wikilink"
 title="300px">300px
 
 ## Overview
@@ -43,7 +43,7 @@ The choke can handle 3 amps of steady state current without heating
 dangerously. Pictured below is an IR image measuring the peak
 temperature immediately after 10 minutes of 3 A of current in a closed
 container.
-<a href="/File:choke_thermal.jpg" class="wikilink"
+<a href="/md_pages/File:choke_thermal.jpg" class="wikilink"
 title="400px">400px
 
 ### Simulation
@@ -54,7 +54,7 @@ this is due to inaccurate calculation or modeling of the physical
 capacitance, which we measure to be on order of 1 pF. The FEKO model and
 resulting simulation can be found at the bottom.
 
-<a href="/File:choke_feko.png" class="wikilink" title="300px">300px
+<a href="/md_pages/File:choke_feko.png" class="wikilink" title="300px">300px
 
 ### Testing
 
@@ -68,5 +68,5 @@ at the bottom.
 
 Folder containing STL, FEKO model, and testing data for toroidal
 chokes:
-<a href="/Media:toroidal_choke.zip" class="wikilink"
+<a href="/md_pages/Media:toroidal_choke.zip" class="wikilink"
 title="Media:toroidal_choke.zip">Media:toroidal_choke.zip
