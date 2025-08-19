@@ -12,7 +12,7 @@ Resonance Physics and Instrument Group
 Lawrence Wald, at the A. A. Martinos Center for Biomedical Imaging,
 Massachusetts General Hospital, Boston, MA, USA.
 
-- <a href="md_pages/Visiting_group_members.md" class="wikilink"
+- <a href="/md_pages/Visiting_group_members.md" class="wikilink"
   title="Visiting group members">Visiting group members
 
 *(August 2020): Version 1 of a low-cost Mini Circuits-based RF low noise
