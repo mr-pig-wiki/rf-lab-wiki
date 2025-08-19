@@ -22,7 +22,7 @@ Datasheet for MHW592:
 <https://datasheetspdf.com/pdf-file/1114767/Motorola/MHW592/1>
 
 [Click
-here](https://rflab.martinos.org/images/6/6b/Tabletop_RFPA_motorola.zip)
+here](../files/../files/Tabletop_RFPA_motorola.zip)
 to download EAGLE board files (layout and schematic), GERBER files, and
 Bill of Materials.
 
