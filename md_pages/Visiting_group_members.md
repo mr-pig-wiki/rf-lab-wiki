@@ -6,7 +6,7 @@ permalink: /Visiting_group_members/
 Visiting faculty member for 2025-26:
 **Dr. Fatih Uğurdağ**
 <a href="/File:Fatih-ugurdag.jpg" class="wikilink"
-title="File:Fatih-ugurdag.jpg"><span>File:Fatih-ugurdag.jpg</span></a>
+title="File:Fatih-ugurdag.jpg"><span>File:Fatih-ugurdag.jpg</span>
 
 We are pleased to welcome Dr. Uğurdağ as a visiting faculty member this
 year. Dr. Uğurdağ is collaborating with Dr. Jason Stockmann and Lincoln

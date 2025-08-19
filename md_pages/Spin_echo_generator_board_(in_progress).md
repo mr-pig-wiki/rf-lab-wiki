@@ -17,9 +17,9 @@ mixers properly.
 
 <a href="/File:Spin_echo_board_bottom.JPG" class="wikilink"
 title="400px|thumb|left|Top of PCB with digital IC&#39;s.">400px|thumb|left|Top
-of PCB with digital IC's.</a>
+of PCB with digital IC's.
 
 <a href="/File:Spin_echo_board_top.JPG" class="wikilink"
 title="400px|thumb|left|Bottom of PCB with RF components and potentiometers to set pulse duration and duty cycle.">400px|thumb|left|Bottom
 of PCB with RF components and potentiometers to set pulse duration and
-duty cycle.</a>
+duty cycle.

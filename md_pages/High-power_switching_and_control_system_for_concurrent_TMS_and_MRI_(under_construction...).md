@@ -4,7 +4,7 @@ permalink: /High-power_switching_and_control_system_for_concurrent_TMS_and_MRI_(
 ---
 
 <a href="/File:Highpowerswitch_overview.png" class="wikilink"
-title="200px|thumb|left|overview">200px|thumb|left|overview</a>
+title="200px|thumb|left|overview">200px|thumb|left|overview
 
 ## Overview
 
@@ -46,7 +46,7 @@ Click here to download switch box circuit design and related details:
 <a href="/_https://rflab.martinos.org/images/9/95/Design.zip"
 class="wikilink"
 title=" https://rflab.martinos.org/images/9/95/Design.zip">
-<span>https://rflab.martinos.org/images/9/95/Design.zip</span></a>
+<span>https://rflab.martinos.org/images/9/95/Design.zip</span>
 
 ## Control
 
@@ -67,7 +67,7 @@ href="/_https://rflab.martinos.org/images/6/66/2_sequence_2sinthentms3_5vpk.txt"
 class="wikilink"
 title=" https://rflab.martinos.org/images/6/66/2_sequence_2sinthentms3_5vpk.txt ">
 <span>https://rflab.martinos.org/images/6/66/2_sequence_2sinthentms3_5vpk.txt</span>
-</a>
+
 
 ## Tests and Results
 
@@ -84,6 +84,6 @@ Encoding + TMS + Switching. Imaging was captured using a spherical water
 phantom with the same spin echo EPI diffusion weighted sequence played
 out by 3T scanner (TE:50ms, TR:20000ms, Voxel Size: 2.0×2.0×6.0 mm³, 20
 slices). <a href="/File:Results1.png" class="wikilink"
-title="File:Results1.png"><span>File:Results1.png</span></a>
+title="File:Results1.png"><span>File:Results1.png</span>
 <a href="/File:Result2.png" class="wikilink"
-title="File:Result2.png"><span>File:Result2.png</span></a>
+title="File:Result2.png"><span>File:Result2.png</span>

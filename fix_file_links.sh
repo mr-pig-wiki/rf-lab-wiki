@@ -1,11 +1,25 @@
-# A) Absolute wiki file URLs (originals or thumbs) → ../files/<filename>
-find md_pages/ -type f -name "*.md" -exec \
-  sed -i '' -E \
-  's~\]\((https?://)?rflab\.martinos\.org/images/(thumb/)?[0-9a-fA-F]/[0-9a-fA-F]{2}/([^)/]+\.(png|jpe?g|gif|svg|pdf|zip|txt|docx?|pptx?|xlsx))(/[^)]*)?\)~](../files/\3)~gI' \
-  {} +
+#!/bin/bash
+# Run this from your repo root (where "pages/" and "files/" folders are)
 
-# B) Any remaining relative links to those file types → normalize into ../files/
-find md_pages/ -type f -name "*.md" -exec \
-  sed -i '' -E \
-  's~\]\(((\.\./wiki_files/)?([^):]*\.(png|jpe?g|gif|svg|pdf|zip|txt|docx?|pptx?|xlsx)))\)~](../files/\3)~gI' \
-  {} +
+PAGES_DIR="md_pages"
+FILES_DIR="wiki_files"
+
+find "$PAGES_DIR" -type f -name "*.md" | while read -r file; do
+  echo "Fixing links in $file"
+
+  # 1. Fix internal wiki links to pages
+  #    <a href="/Some_Page"> → (pages/Some_Page.md)
+  sed -i.bak -E "s|<a href=\"/([A-Za-z0-9_:-]+)\"[^>]*>|[\1]($PAGES_DIR/\1.md)|g" "$file"
+
+  # 2. Fix links to files (images, txt, pdf, etc.)
+  #    <a href="/images/..."> → (files/...)
+  sed -i.bak -E "s|<a href=\"/images/([^\"]+)\"[^>]*>|[\1]($FILES_DIR/\1)|g" "$file"
+
+  # 3. Remove leftover closing </a> tags (because we turned them into Markdown links)
+  sed -i.bak -E "s|</a>||g" "$file"
+
+  # Cleanup backup files
+  rm -f "$file.bak"
+done
+
+echo "✅ All links rewritten!"
