@@ -5,7 +5,7 @@ permalink: /Visiting_group_members/
 
 Visiting faculty member for 2025-26:
 **Dr. Fatih Uğurdağ**
-<a href="/md_pages/File:Fatih-ugurdag.jpg" class="wikilink"
+<a href="/wiki_files/Fatih-ugurdag.jpg" class="wikilink"
 title="File:Fatih-ugurdag.jpg"><span>File:Fatih-ugurdag.jpg</span>
 
 We are pleased to welcome Dr. Uğurdağ as a visiting faculty member this

@@ -1,19 +1,26 @@
 #!/bin/bash
-# Run from your repo root
-# Adds /md_pages prefix to all internal wiki page links
-
-PAGES_DIR="md_pages"  # folder containing your Markdown pages
+# Run from repo root
+# Fix wiki page links and file links in Markdown pages
+PAGES_DIR="md_pages"
 
 find "$PAGES_DIR" -type f -name "*.md" | while read -r file; do
   echo "Processing $file..."
-  
-  # Add /md_pages prefix to href links that start with /
-  # Only modify links that are wiki pages (not images)
-  sed -i.bak -E 's|(href=")/([^"/]+)"|\1/md_pages/\2"|g' "$file"
-  
-  # Remove backup file
+
+  # 1. Remove all /md_pages from reference links
+  sed -i.bak 's|/md_pages/||g' "$file"
+
+  # 2. Fix md_pages/File: and md_pages/Media: links → files/<filename>
+  sed -i.bak 's|href="md_pages/File:\([^"\]*\)"|href="/wiki_files/\1"|g' "$file"
+  sed -i.bak 's|href="md_pages/Media:\([^"\]*\)"|href="/wiki_files/\1"|g' "$file"
+
+  # 3. Add /md_pages prefix to remaining absolute page links (not files or media)
+  sed -i.bak 's|href="/\([^"/][^"\]*\)"|href="/md_pages/\1"|g' "$file"
+  sed -i.bak 's|href="\(md_pages/\)\(File:\|Media:\)||g' "$file"
+
   rm -f "$file.bak"
 done
 
-echo "✅ Done adding /md_pages prefix!"
+echo "All links fixed!"
+
+
 

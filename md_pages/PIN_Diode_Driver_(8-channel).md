@@ -5,7 +5,7 @@ permalink: /PIN_Diode_Driver_(8-channel)/
 
 ## Overview
 
-<a href="/md_pages/File:PIN_diode_driver_8x.JPG" class="wikilink"
+<a href="/wiki_files/PIN_diode_driver_8x.JPG" class="wikilink"
 title="1200px">1200px
 This PIN diode driver is intended to allow new RF coil designs to use
 more PIN diode channels than the Siemens scanners provide, especially
@@ -56,14 +56,14 @@ diode line:
 1.  In series with an existing PIN diode: populate D1 and R1, and make
     sure D2 is removed
 
-<a href="/md_pages/File:PIN_diode_driver_8x-conn-input-series.png"
+<a href="/wiki_files/PIN_diode_driver_8x-conn-input-series.png"
 class="wikilink"
 title="File:PIN_diode_driver_8x-conn-input-series.png"><span>File:PIN_diode_driver_8x-conn-input-series.png</span>
 
 1.  As a stand-alone load on the scanner's line: populate D2, and make
     sure D1 and R1 are removed
 
-<a href="/md_pages/File:PIN_diode_driver_8x-conn-input-direct.png"
+<a href="/wiki_files/PIN_diode_driver_8x-conn-input-direct.png"
 class="wikilink"
 title="File:PIN_diode_driver_8x-conn-input-direct.png"><span>File:PIN_diode_driver_8x-conn-input-direct.png</span>
 
@@ -81,7 +81,7 @@ larger output through-hole connections near the bottom-left edge.
 
 See the mechanical drawing here for PCB dimensions, locations of
 mounting holes, and clearance needed above/below the PCB:
-<a href="/md_pages/Media:PIN_driver_8x-mech.pdf" class="wikilink"
+<a href="/wiki_files/PIN_driver_8x-mech.pdf" class="wikilink"
 title="Media:PIN_driver_8x-mech.pdf">Media:PIN_driver_8x-mech.pdf
 The default mounting (as shown in the layout and on the silkscreen) for
 the Molex Mini-Fit Jr. power connector is on the bottom side of the
@@ -158,9 +158,9 @@ robust design rather than switching speed.
 ## Design files
 
 Design files were created in KiCAD 5
-<a href="/md_pages/Media:PIN_driver_8x_1.1.1.zip" class="wikilink"
+<a href="/wiki_files/PIN_driver_8x_1.1.1.zip" class="wikilink"
 title="Media:PIN_driver_8x_1.1.1.zip">Media:PIN_driver_8x_1.1.1.zip
-<a href="/md_pages/Media:PIN_driver_8x_1.2.zip" class="wikilink"
+<a href="/wiki_files/PIN_driver_8x_1.2.zip" class="wikilink"
 title="Media:PIN_driver_8x_1.2.zip">Media:PIN_driver_8x_1.2.zip
 Contains assembly files for automated assembly, through PCB Universe or
 another service
