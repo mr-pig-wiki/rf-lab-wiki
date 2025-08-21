@@ -4,7 +4,7 @@ PAGES_DIR="md_pages"
 
 find "$PAGES_DIR" -type f -name "*.md" | while read -r file; do
   echo "Processing $file..."
-  sed -i.bak 's|href="files/|href="/wiki_files/|g' "$file"
+  sed -i.bak 's|href="wiki_files/|href="/wiki_files/|g' "$file"
   rm -f "$file.bak"
 done
 

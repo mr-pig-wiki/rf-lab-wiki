@@ -43,7 +43,7 @@ disengaged, and the system enters a safe shutdown state.
 ## Circuit Design/Specifications
 
 Click here to download switch box circuit design and related details:
-<a href="_https://rflab.martinos.org/images/9/95/Design.zip"
+<a href="/md_pages/_https://rflab.martinos.org/images/9/95/Design.zip"
 class="wikilink"
 title=" https://rflab.martinos.org/images/9/95/Design.zip">
 <span>https://rflab.martinos.org/images/9/95/Design.zip</span>
@@ -63,7 +63,7 @@ waits for an external trigger to run the sequence. When this external
 trigger arrives, the software uses a SPI protocol interface in the
 FPGA’s programmable logic to “re-play” the sequence of output signals on
 the DAC board. Click here for an example script that we used: <a
-href="_https://rflab.martinos.org/images/6/66/2_sequence_2sinthentms3_5vpk.txt"
+href="/md_pages/_https://rflab.martinos.org/images/6/66/2_sequence_2sinthentms3_5vpk.txt"
 class="wikilink"
 title=" https://rflab.martinos.org/images/6/66/2_sequence_2sinthentms3_5vpk.txt ">
 <span>https://rflab.martinos.org/images/6/66/2_sequence_2sinthentms3_5vpk.txt</span>
