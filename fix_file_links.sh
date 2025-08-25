@@ -2,7 +2,7 @@
 # Run from repo root
 # Fix wiki page links and file links in Markdown pages
 PAGES_DIR="md_pages"
-
+#replace with your directory
 
 find "$PAGES_DIR" -type f -name "*.md" | while read -r file; do
   echo "Processing $file..."
