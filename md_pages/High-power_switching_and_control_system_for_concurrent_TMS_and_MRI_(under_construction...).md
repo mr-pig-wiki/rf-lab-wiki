@@ -43,7 +43,7 @@ disengaged, and the system enters a safe shutdown state.
 ## Circuit Design/Specifications
 
 Click here to download switch box circuit design and related details:
-<a href="/md_pages/_https://rflab.martinos.org/images/9/95/Design.zip"
+<a href="/wiki_files/Design.zip"
 class="wikilink"
 title=" https://rflab.martinos.org/images/9/95/Design.zip">
 <span>https://rflab.martinos.org/images/9/95/Design.zip</span>
