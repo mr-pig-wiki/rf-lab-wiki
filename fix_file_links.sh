@@ -32,6 +32,9 @@ find "$PAGES_DIR" -type f -name "*.md" | while read -r file; do
 
   # Capitalize first letter after /wiki_files/ in href attributes (macOS compatible)
   perl -i.bak -pe 's|(href="/wiki_files/)([a-z])|$1.uc($2)|eg' "$file"
+
+  # Add .md to page links that do not already end with .md (excluding file/image links)
+  sed -i.bak -E '/href="\/wiki_files\//!s|(href="/md_pages/[^"/]*)(")|\1.md\2|g' "$file"
   rm -f "$file.bak"
 done
 
