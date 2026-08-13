@@ -4,8 +4,7 @@ title: Visiting group members
 
 Visiting faculty member for 2025-26:
 **Dr. Fatih Uğurdağ**
-<a href="/rf-lab/files/Fatih-ugurdag.jpg" class="wikilink"
-title="File:Fatih-ugurdag.jpg"><span>File:Fatih-ugurdag.jpg</span>
+![Fatih ugurdag](Fatih-ugurdag.jpg)
 
 We are pleased to welcome Dr. Uğurdağ as a visiting faculty member this
 year. Dr. Uğurdağ is collaborating with Dr. Jason Stockmann and Lincoln

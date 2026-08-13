@@ -2,8 +2,7 @@
 title: High-power switching and control system for concurrent TMS and MRI (under construction...)
 ---
 
-<a href="/rf-lab/files/Highpowerswitch_overview.png" class="wikilink"
-title="200px|thumb|left|overview">200px|thumb|left|overview
+![Highpowerswitch overview](Highpowerswitch_overview.png)
 
 ## Overview
 
@@ -41,11 +40,8 @@ disengaged, and the system enters a safe shutdown state.
 
 ## Circuit Design/Specifications
 
-Click here to download switch box circuit design and related details:
-<a href="/rf-lab/files/Design.zip"
-class="wikilink"
-title=" /rf-lab/files/Design.zip">
-<span>/rf-lab/files/Design.zip</span>
+The switch-box circuit design and related files require a current PI-managed
+external download link.
 
 ## Control
 
@@ -61,11 +57,8 @@ on the Red Pitaya’s microprocessor reads this pulse sequence file, and
 waits for an external trigger to run the sequence. When this external
 trigger arrives, the software uses a SPI protocol interface in the
 FPGA’s programmable logic to “re-play” the sequence of output signals on
-the DAC board. Click here for an example script that we used: <a
-href="/rf-lab/files/2_sequence_2sinthentms3_5vpk.txt"
-class="wikilink"
-title=" /rf-lab/files/2_sequence_2sinthentms3_5vpk.txt ">
-<span>/rf-lab/files/2_sequence_2sinthentms3_5vpk.txt</span>
+the DAC board. The example playback script requires a current PI-managed
+external download link.
 
 
 ## Tests and Results
@@ -82,7 +75,8 @@ TMS + Switching, Scenario 4. Encoding + Switching, and Scenario 5.
 Encoding + TMS + Switching. Imaging was captured using a spherical water
 phantom with the same spin echo EPI diffusion weighted sequence played
 out by 3T scanner (TE:50ms, TR:20000ms, Voxel Size: 2.0×2.0×6.0 mm³, 20
-slices). <a href="/rf-lab/files/Results1.png" class="wikilink"
-title="File:Results1.png"><span>File:Results1.png</span>
-<a href="/rf-lab/files/Result2.png" class="wikilink"
-title="File:Result2.png"><span>File:Result2.png</span>
+slices).
+
+![Scanner test results](Results1.png)
+
+![Additional scanner test results](Result2.png)

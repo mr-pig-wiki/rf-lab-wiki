@@ -4,13 +4,7 @@ title: PIN Diode Driver (8-channel)
 
 ## Overview
 
-<a href="/rf-lab/files/PIN_diode_driver_8x.JPG" class="wikilink"
-title="1200px">1200px
-This PIN diode driver is intended to allow new RF coil designs to use
-more PIN diode channels than the Siemens scanners provide, especially
-for high-channel-count coil designs. Mounted to an RF coil, it takes
-on/off input control from an existing PIN diode line from the scanner,
-and drives the 8 channels in sync with the scanner's PIN diode line.
+![PIN diode driver 8x](PIN_diode_driver_8x.JPG)
 
 Work contributed by Don Straney, Staff Electrical Engineer for the
 Martinos Center
@@ -55,16 +49,12 @@ diode line:
 1.  In series with an existing PIN diode: populate D1 and R1, and make
     sure D2 is removed
 
-<a href="/rf-lab/files/PIN_diode_driver_8x-conn-input-series.png"
-class="wikilink"
-title="File:PIN_diode_driver_8x-conn-input-series.png"><span>File:PIN_diode_driver_8x-conn-input-series.png</span>
+![Series sense-input connection](PIN_diode_driver_8x-conn-input-series.png)
 
 1.  As a stand-alone load on the scanner's line: populate D2, and make
     sure D1 and R1 are removed
 
-<a href="/rf-lab/files/PIN_diode_driver_8x-conn-input-direct.png"
-class="wikilink"
-title="File:PIN_diode_driver_8x-conn-input-direct.png"><span>File:PIN_diode_driver_8x-conn-input-direct.png</span>
+![Direct sense-input connection](PIN_diode_driver_8x-conn-input-direct.png)
 
 
 The sense input is turned on by ~110 mA, to match the typical Siemens
@@ -78,10 +68,8 @@ larger output through-hole connections near the bottom-left edge.
 
 ### Mechanical form factor
 
-See the mechanical drawing here for PCB dimensions, locations of
-mounting holes, and clearance needed above/below the PCB:
-<a href="/rf-lab/files/PIN_driver_8x-mech.pdf" class="wikilink"
-title="Media:PIN_driver_8x-mech.pdf">Media:PIN_driver_8x-mech.pdf
+The mechanical drawing for PCB dimensions, mounting holes, and clearance
+requires a current PI-managed external download link.
 The default mounting (as shown in the layout and on the silkscreen) for
 the Molex Mini-Fit Jr. power connector is on the bottom side of the
 board. However, if necessary for space constraints, this connector can
@@ -156,10 +144,6 @@ robust design rather than switching speed.
 
 ## Design files
 
-Design files were created in KiCAD 5
-<a href="/rf-lab/files/PIN_driver_8x_1.1.1.zip" class="wikilink"
-title="Media:PIN_driver_8x_1.1.1.zip">Media:PIN_driver_8x_1.1.1.zip
-<a href="/rf-lab/files/PIN_driver_8x_1.2.zip" class="wikilink"
-title="Media:PIN_driver_8x_1.2.zip">Media:PIN_driver_8x_1.2.zip
+The KiCAD 5 design files require a current PI-managed external download link.
 Contains assembly files for automated assembly, through PCB Universe or
 another service

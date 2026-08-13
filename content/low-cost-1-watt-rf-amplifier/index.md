@@ -20,15 +20,11 @@ on-board regulator).
 Datasheet for MHW592:
 <https://datasheetspdf.com/pdf-file/1114767/Motorola/MHW592/1>
 
-[Click
-here](/rf-lab/files/Tabletop_RFPA_motorola.zip)
+Click
+here *(download link pending from the responsible PI or project owner)*
 to download EAGLE board files (layout and schematic), GERBER files, and
 Bill of Materials.
 
-<a href="/rf-lab/files/Schematic_rfpa.png" class="wikilink"
-title="1000px|none|alt=Alt text|Schematic for MHW592 daughter board">1000px|none|alt=Alt
-text|Schematic for MHW592 daughter board
+![Schematic rfpa](Schematic_rfpa.png)
 
-<a href="/rf-lab/files/Layout_rfpa.png" class="wikilink"
-title="1000px |Board layout for MHW592 daughter board">1000px |Board
-layout for MHW592 daughter board
+![Board layout for the MHW592 daughter board](Layout_rfpa.png)

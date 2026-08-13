@@ -22,16 +22,11 @@ How to set up a basic coil model:
 - Coil loop inductance is specified by "L1". Adjust tuning and matching
   capacitor values (or add more matching elements as needed).
 
-<!-- -->
-
 - Specify the input impedance of the preamp using "Rpreamp and Lpreamp".
-
-<!-- -->
 
 - Set the desired length of cable (and cable impedance)
 
-Click here to download LT-SPICE model:
-</rf-lab/files/Siemens_example_spice.zip>
+The LT-SPICE model requires a current PI-managed external download link.
 
 Here is a good reference paper that explains how to choose network
 topologies and calculate component values for simultaneously (i)
@@ -40,10 +35,9 @@ to a high impedance at the coil drive point ("preamp decoupling"):
 [Reykowski A., et al., MRM
 1995](https://onlinelibrary.wiley.com/doi/abs/10.1002/mrm.1910330617)
 
-Version of LT-SPICE simulation used for ENC April 2022 demo:
-</rf-lab/files/Coil_tuning_demo.zip>
+The LT-SPICE simulation used for the ENC April 2022 demo also requires a
+current PI-managed external download link.
 
 LT-SPICE model was created by Lincoln Craven-Brightman in 2021.
 
-<a href="/rf-lab/files/Screen_Shot_2022-02-24_at_5.56.15_PM.png"
-class="wikilink" title="1500px">1500px
+![LT-SPICE simulation](Screen_Shot_2022-02-24_at_5.56.15_PM.png)
