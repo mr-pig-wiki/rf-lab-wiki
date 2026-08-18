@@ -1,0 +1,58 @@
+---
+title: RF Lab Wiki
+---
+
+## Radio Frequency Laboratory of the Wald Group at MGH
+
+This page contains resources for RF coil design, fabrication, and
+testing related to the work conducted in the RF Lab of the [Magnetic
+Resonance Physics and Instrumentation Group
+(MR-PIGs)](https://www.nmr.mgh.harvard.edu/lab/mr-pig), led by Dr.
+Lawrence Wald, at the A. A. Martinos Center for Biomedical Imaging,
+Massachusetts General Hospital, Boston, MA, USA.
+
+- [Visiting group members](/rf-lab/visiting-group-members/)
+
+*(August 2020): Version 1 of a low-cost Mini Circuits-based RF low noise
+preamplifier added*
+
+*(March 2020): A few small bugs have been fixed on the fiber optic
+interface board. New versions of the board files are now available.*
+
+*(July 2019): Revision C of the open-source shim amplifier are now
+available online. Please see Current driver section below.*
+
+*(JULY 2016): MATLAB code is now available for multi-coil shimming
+simulations. The code includes helmet-style wire patterns and a
+constrained optimization script for finding optimal shim currents for B0
+shimming of the brain. Please see the [multi-coil B0 shimming
+section](/rf-lab/multi-coil-b0-shimming/) below.*
+
+Questions? Please email Jason Stockmann at jstockmann@mgh.harvard.edu
+
+*This page is under construction -- thank you for your patience as we
+upload materials...*
+
+## Resources
+
+- [Multi-channel current driver board](/rf-lab/current-driver/)
+- [Multi-coil B0 shimming research methods](/rf-lab/multi-coil-b0-shimming/)
+- [Information and How-To guides for building RF coils](/rf-lab/rf-coil-building-guides/)
+- [PIN Diode Driver (8-channel)](/rf-lab/pin-diode-driver/)
+- [3T Toroidal Chokes](/rf-lab/3t-toroidal-chokes/)
+- [Low-noise RF Preamplifier](/rf-lab/low-noise-rf-preamplifier/)
+- [LT-SPICE simulations of RF receive-coil tuning and matching](/rf-lab/lt-spice-coil-tuning/)
+- [Low-cost 1 Watt RF power amplifier](/rf-lab/low-cost-1-watt-rf-amplifier/)
+- [Spin echo generator board](/rf-lab/spin-echo-generator-board/)
+- [12ch ASL Shim Coil](/rf-lab/12ch-asl-shim-coil/)
+- [High-power switching and control system for concurrent TMS and MRI](/rf-lab/high-power-switching-control/)
+
+## Links to other Wikis in the Wald Group
+
+- [Link to anthropomorphic phantom
+  wiki](/phantoms/)
+- [Link to pTx wiki](http://ptx.martinos.org)
+- [Link to tabletop educational MRI scanner
+  wiki](/tabletop-mri/)
+- [Link to Magnetic Particle Imaging (MPI)
+  wiki](http://mpi.martinos.org)
